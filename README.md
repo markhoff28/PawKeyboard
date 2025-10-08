@@ -37,11 +37,15 @@ This is not just a button. It’s a portal into the fluffy side of the internet.
 ## 📦 Repo Structure
 ````
 PawKeyboard/
-  firmware/
-    pawkeyboard.ino
   case/
-    emergency-alt-key-base.stl
+    altf4-button-bottom-enclosure.3mf
+    altf4-button-top-enclosure.3mf
     paw-keycap.stl
+  firmware/
+    pawKey.ino
+  printfiles/
+	button-case.3mf
+	paw-keycap.3mf
   images/
     ToDo
   LICENSE
