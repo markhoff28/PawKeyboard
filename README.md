@@ -1,10 +1,10 @@
-# 🐾 PawKeyboard
+# PawKeyboard
 
 *A cute paw-key that types `x3`, `owo` and more – for furries, by furries. One button, infinite fluff chat.*
 
 ---
 
-## ✨ What is this?
+## What is this?
 
 **PawKeyboard** is a single-button USB device with a paw-shaped keycap that sends predefined ASCII emotes like `owo`, `x3`, `rawr~`, or `*paw*` – directly into your text field.  
 It’s powered by an Arduino Pro Micro, fits into a tiny 3D-printable case, and adds just the right amount of fluff to your daily typing.
@@ -13,7 +13,7 @@ This is not just a button. It’s a portal into the fluffy side of the internet.
 
 ---
 
-## 🧸 Use cases
+## Use cases
 
 - Say more with less in Telegram, Discord, VRChat typing, or even Notepad
 - Make others smile with every `x3`
@@ -23,7 +23,7 @@ This is not just a button. It’s a portal into the fluffy side of the internet.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Simple press = sends `x3`, `owo`, `rawr~`, etc.
 - Emotes change based on hold duration
@@ -35,27 +35,7 @@ This is not just a button. It’s a portal into the fluffy side of the internet.
 
 ---
 
-## 📦 Repo Structure
-````
-PawKeyboard/
-  case/
-    altf4-button-bottom-enclosure.3mf
-    altf4-button-top-enclosure.3mf
-    paw-keycap.stl
-  firmware/
-    pawKey.ino
-  printfiles/
-	button-case.3mf
-	paw-keycap.3mf
-  images/
-    ToDo
-  LICENSE
-  README.md
-
-````
----
-
-## 🧠 Requirements
+## Requirements
 
 - Arduino Micro with USB-C
 - 1x Cherry-MX style keyswitch
@@ -66,7 +46,7 @@ PawKeyboard/
 
 ---
 
-## 🎨 STL File Attribution
+## STL File Attribution
 
 > The STL files used for the case and the paw keycap were **not designed by me** –  
 > I found and combined them for this project. I'm as creative as a rock.  
@@ -79,14 +59,14 @@ Please support the original creators if you use or modify these parts!
 
 ---
 
-## 🐾 License
+## License
 
 This project is licensed under the **GNU General Public License v3.0** (see `LICENSE` file).  
 You're free to use, modify, remix, fluff, and share – just keep it open.
 
 ---
 
-## 🌐 For the curious
+## For the curious
 
 > Made by a fluff who wanted to say "x3" with style.  
 > Use responsibly. Tap mindfully. Fluff often.
