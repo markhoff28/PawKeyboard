@@ -31,6 +31,7 @@ This is not just a button. It’s a portal into the fluffy side of the internet.
 - Compatible with any ATmega32U4 board (e.g. Pro Micro)
 - Works out of the box on most systems (USB HID)
 - Optional 3D-printable case with paw keycap
+- Print files for bambulab printers are included
 
 ---
 
